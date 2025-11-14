@@ -60,6 +60,8 @@ Stored in `~/Documents/PostQode/Workflows/`.
 - **[React Best Practices](./rules/web/react-best-practices.md)** - Modern React development with hooks, TypeScript, and performance optimization
 - **[TypeScript Standards](./rules/web/typescript-standards.md)** - Type safety, interfaces, generics, and utility types
 - **[Vue.js Best Practices](./rules/web/vuejs-best-practices.md)** - Modern Vue 3 with Composition API, reactivity patterns, and component architecture
+- **[Angular Best Practices](./rules/web/angular-best-practices.md)** - Modern Angular with TypeScript, RxJS, and dependency injection
+- **[Svelte Best Practices](./rules/web/svelte-best-practices.md)** - Reactive programming with Svelte 5 and component composition
 
 ### Backend Development
 - **[API Design Principles](./rules/backend/api-design-principles.md)** - RESTful API design, HTTP methods, and versioning
@@ -68,7 +70,10 @@ Stored in `~/Documents/PostQode/Workflows/`.
 ### Testing
 - **[Testing Strategies](./rules/testing/testing-strategies.md)** - Test pyramid, unit/integration/E2E testing approaches
 - **[API Automation Best Practices](./rules/testing/api-automation-best-practices.md)** - Comprehensive API testing guidelines
+- **[Jest Unit Testing](./rules/testing/jest-unit-testing.md)** - JavaScript/TypeScript unit testing with mocking and coverage
 - **[Cypress E2E Testing](./rules/testing/cypress-e2e-testing.md)** - End-to-end testing with Cypress automation
+- **[Playwright E2E Testing](./rules/testing/playwright-e2e-testing.md)** - Modern browser automation with multi-browser support
+- **[Test Automation Design Patterns](./rules/testing/test-automation-design-patterns.md)** - POM, data-driven testing, and locator strategies
 
 ### Mobile Development
 - **[React Native Best Practices](./rules/mobile/react-native-best-practices.md)** - Cross-platform mobile development patterns
@@ -117,19 +122,26 @@ We welcome contributions! Here's how you can help:
 ```
 awesome-postqode/
 ├── README.md                 # Main documentation (you are here)
-├── rules/                    # PostQode Rules
+├── LICENSE                   # MIT License
+├── .gitignore               # Standard ignore patterns
+├── rules/                    # PostQode Rules (24 comprehensive guides)
 │   ├── README.md            # Rules documentation
 │   ├── web/                 # Web development rules
 │   │   ├── react-best-practices.md
 │   │   ├── typescript-standards.md
-│   │   └── vuejs-best-practices.md
+│   │   ├── vuejs-best-practices.md
+│   │   ├── angular-best-practices.md
+│   │   └── svelte-best-practices.md
 │   ├── backend/             # Backend development rules
 │   │   ├── api-design-principles.md
 │   │   └── python-django-best-practices.md
 │   ├── testing/             # Testing & quality rules
 │   │   ├── testing-strategies.md
 │   │   ├── api-automation-best-practices.md
-│   │   └── cypress-e2e-testing.md
+│   │   ├── jest-unit-testing.md
+│   │   ├── cypress-e2e-testing.md
+│   │   ├── playwright-e2e-testing.md
+│   │   └── test-automation-design-patterns.md
 │   ├── mobile/              # Mobile development rules
 │   │   ├── react-native-best-practices.md
 │   │   ├── ios-testing-best-practices.md
