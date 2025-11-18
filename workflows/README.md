@@ -43,6 +43,7 @@ A collection of workflows for test automation, strategy, and quality assurance.
 -   **[Create Automation Tests](./testing/create-automation-tests.md):** A strategic guide to identifying and creating high-value automated tests.
 -   **[Create Test Charters](./testing/create-test-charters.md):** A workflow for creating effective, context-driven test charters for exploratory testing.
 -   **[Heal Failing Tests](./testing/heal-failing-tests.md):** A systematic approach to diagnosing and fixing failing automated tests.
+-   **[Implement Tests](./testing/implement-tests.md):** A structured process for converting an approved test plan into executable automated tests.
 -   **[Plan E2E Tests](./testing/plan-e2e-tests.md):** A structured process for analyzing end-to-end test scenarios and creating a clear implementation plan.
 -   **[Review Test Suite](./testing/review-test-suite.md):** A comprehensive guide to auditing a test automation suite for quality, maintainability, and ROI.
 
