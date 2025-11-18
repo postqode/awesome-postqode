@@ -24,6 +24,12 @@ To use a workflow, simply invoke it by name in your chat with PostQode. The work
 
 ## Workflow Categories
 
+### 💻 Development
+
+A collection of workflows for common development tasks, such as fixing bugs and implementing features.
+
+-   **[Fix Bug](./development/fix-bug.md):** A systematic process for investigating, fixing, and verifying bugs.
+
 ### 📂 Project Management
 
 A collection of workflows for project planning, context gathering, and task management.
