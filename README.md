@@ -130,6 +130,7 @@ awesome-postqode/
         ├── create-automation-tests.md
         ├── create-test-charters.md
         ├── heal-failing-tests.md
+        ├── plan-e2e-tests.md
         └── review-test-suite.md
 ```
 
