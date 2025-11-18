@@ -137,6 +137,8 @@ awesome-postqode/
     │   └── review-test-suite.md
     └── chaos-engineering/   # Chaos engineering workflows
         └── test-breaker.md
+    └── team-management/     # Team management workflows
+        └── onboard-new-developer.md
 ```
 
 ## 💡 Use Cases

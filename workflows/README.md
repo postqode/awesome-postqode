@@ -55,6 +55,12 @@ A collection of workflows for intentionally introducing controlled failures to t
 
 -   **[Test Breaker](./chaos-engineering/test-breaker.md):** A workflow for systematically introducing failures into an automated test suite.
 
+### 👥 Team Management
+
+A collection of workflows for team-related processes, such as onboarding and knowledge sharing.
+
+-   **[Onboard New Developer](./team-management/onboard-new-developer.md):** A structured checklist to ensure a smooth and consistent onboarding experience for new developers.
+
 ### ✨ Examples
 
 -   **[Component Generator](./examples/component-generator.md):** An example workflow for generating a new React component with TypeScript, tests, and styles.
