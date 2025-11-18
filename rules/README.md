@@ -85,11 +85,16 @@ Server-side development patterns and APIs.
 
 ### 🧪 Testing & Quality
 
-Testing strategies and code quality standards.
+A collection of rules for testing strategies, frameworks, and code quality standards.
 
-- **[Testing Strategies](./testing/testing-strategies.md)** - Unit, integration, E2E testing
-- **[Code Review Guidelines](./testing/code-review-guidelines.md)** - Review checklist, feedback patterns
-- **[Performance Optimization](./testing/performance-optimization.md)** - Profiling, caching, optimization
+- **[API Automation Best Practices](./testing/types/api-automation-best-practices.md)** - Comprehensive API testing guidelines.
+- **[Context-Driven Testing](./testing/principles/context-driven-testing.md)** - Tailoring testing practices to the project context.
+- **[Cypress E2E Testing](./testing/frameworks/cypress-e2e-testing.md)** - End-to-end testing with Cypress.
+- **[Jest Unit Testing](./testing/frameworks/jest-unit-testing.md)** - JavaScript/TypeScript unit testing with Jest.
+- **[Playwright E2E Testing](./testing/frameworks/playwright-e2e-testing.md)** - Modern browser automation with Playwright.
+- **[Test Automation Design Patterns](./testing/principles/test-automation-design-patterns.md)** - POM, data-driven testing, and locator strategies.
+- **[Test Automation Framework Guidelines](./testing/principles/test-automation-framework-guidelines.md)** - Best practices for building scalable test frameworks.
+- **[Testing Strategies](./testing/principles/testing-strategies.md)** - Unit, integration, and E2E testing approaches.
 
 ### 📱 Mobile Development
 

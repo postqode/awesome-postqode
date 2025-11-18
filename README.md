@@ -54,50 +54,6 @@ Stored in `~/Documents/PostQode/Workflows/`.
 - **[Workflows Documentation](./workflows/README.md)** - Learn about creating and using workflows
 - **[PostQode Docs](https://docs.postqode.ai)** - Official PostQode documentation
 
-## 🌟 Featured Content
-
-### Web Development
-- **[React Best Practices](./rules/web/react-best-practices.md)** - Modern React development with hooks, TypeScript, and performance optimization
-- **[TypeScript Standards](./rules/web/typescript-standards.md)** - Type safety, interfaces, generics, and utility types
-- **[Vue.js Best Practices](./rules/web/vuejs-best-practices.md)** - Modern Vue 3 with Composition API, reactivity patterns, and component architecture
-- **[Angular Best Practices](./rules/web/angular-best-practices.md)** - Modern Angular with TypeScript, RxJS, and dependency injection
-- **[Svelte Best Practices](./rules/web/svelte-best-practices.md)** - Reactive programming with Svelte 5 and component composition
-
-### Backend Development
-- **[API Design Principles](./rules/backend/api-design-principles.md)** - RESTful API design, HTTP methods, and versioning
-- **[Python Django Best Practices](./rules/backend/python-django-best-practices.md)** - Django web development with proper project structure, ORM usage, and security practices
-
-### Testing
-- **[Testing Strategies](./rules/testing/testing-strategies.md)** - Test pyramid, unit/integration/E2E testing approaches
-- **[API Automation Best Practices](./rules/testing/api-automation-best-practices.md)** - Comprehensive API testing guidelines
-- **[Jest Unit Testing](./rules/testing/jest-unit-testing.md)** - JavaScript/TypeScript unit testing with mocking and coverage
-- **[Cypress E2E Testing](./rules/testing/cypress-e2e-testing.md)** - End-to-end testing with Cypress automation
-- **[Playwright E2E Testing](./rules/testing/playwright-e2e-testing.md)** - Modern browser automation with multi-browser support
-- **[Test Automation Design Patterns](./rules/testing/test-automation-design-patterns.md)** - POM, data-driven testing, and locator strategies
-
-### Mobile Development
-- **[React Native Best Practices](./rules/mobile/react-native-best-practices.md)** - Cross-platform mobile development patterns
-- **[iOS Testing Best Practices](./rules/mobile/ios-testing-best-practices.md)** - XCTest and XCUITest guidelines
-- **[Android Testing Best Practices](./rules/mobile/android-testing-best-practices.md)** - JUnit and Espresso testing patterns
-
-### AI & Machine Learning
-- **[Python LLM Workflow](./rules/ai-ml/python-llm-workflow.md)** - LLM integration patterns, prompt engineering, and response handling
-
-### Security & DevOps
-- **[Security Best Practices](./rules/security-devops/security-best-practices.md)** - OWASP Top 10, authentication, and security patterns
-- **[Docker Best Practices](./rules/devops/docker-best-practices.md)** - Containerization, security practices, and container management
-
-### Database
-- **[SQL Best Practices](./rules/database/sql-best-practices.md)** - Database design, query optimization, and data management
-
-### Languages
-- **[JavaScript Best Practices](./rules/languages/javascript-best-practices.md)** - Modern JavaScript development with ES6+ features, async programming, and module organization
-
-### Documentation
-- **[Documentation Standards](./rules/documentation/documentation-standards.md)** - README structure, code comments, API documentation
-
-### Popular Workflows
-- **[Component Generator](./workflows/examples/component-generator.md)** - React component creation with TypeScript, tests, and styles
 
 ## 🤝 Contributing
 
@@ -136,12 +92,17 @@ awesome-postqode/
 │   │   ├── api-design-principles.md
 │   │   └── python-django-best-practices.md
 │   ├── testing/             # Testing & quality rules
-│   │   ├── testing-strategies.md
-│   │   ├── api-automation-best-practices.md
-│   │   ├── jest-unit-testing.md
-│   │   ├── cypress-e2e-testing.md
-│   │   ├── playwright-e2e-testing.md
-│   │   └── test-automation-design-patterns.md
+│   │   ├── frameworks/
+│   │   │   ├── cypress-e2e-testing.md
+│   │   │   ├── jest-unit-testing.md
+│   │   │   └── playwright-e2e-testing.md
+│   │   ├── principles/
+│   │   │   ├── context-driven-testing.md
+│   │   │   ├── test-automation-design-patterns.md
+│   │   │   ├── test-automation-framework-guidelines.md
+│   │   │   └── testing-strategies.md
+│   │   └── types/
+│   │       └── api-automation-best-practices.md
 │   ├── mobile/              # Mobile development rules
 │   │   ├── react-native-best-practices.md
 │   │   ├── ios-testing-best-practices.md
