@@ -120,8 +120,14 @@ awesome-postqode/
 │       └── documentation-standards.md
 └── workflows/               # PostQode Workflows
     ├── README.md            # Workflows documentation
-    └── examples/            # Example workflows
-        └── component-generator.md
+    ├── examples/            # Example workflows
+    │   └── component-generator.md
+    └── testing/             # Testing workflows
+        ├── create-automation-tests.md
+        ├── create-test-charters.md
+        ├── gather-feature-context.md
+        ├── heal-failing-tests.md
+        └── review-test-suite.md
 ```
 
 ## 💡 Use Cases
