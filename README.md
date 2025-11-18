@@ -122,10 +122,11 @@ awesome-postqode/
     ├── README.md            # Workflows documentation
     ├── examples/            # Example workflows
     │   └── component-generator.md
+    ├── project-management/  # Project management workflows
+    │   └── gather-feature-context.md
     └── testing/             # Testing workflows
         ├── create-automation-tests.md
         ├── create-test-charters.md
-        ├── gather-feature-context.md
         ├── heal-failing-tests.md
         └── review-test-suite.md
 ```

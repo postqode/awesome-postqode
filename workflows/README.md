@@ -24,13 +24,18 @@ To use a workflow, simply invoke it by name in your chat with PostQode. The work
 
 ## Workflow Categories
 
+### 📂 Project Management
+
+A collection of workflows for project planning, context gathering, and task management.
+
+-   **[Gather Feature Context](./project-management/gather-feature-context.md):** A process for gathering comprehensive context for a large feature or epic.
+
 ### 🧪 Testing
 
 A collection of workflows for test automation, strategy, and quality assurance.
 
 -   **[Create Automation Tests](./testing/create-automation-tests.md):** A strategic guide to identifying and creating high-value automated tests.
 -   **[Create Test Charters](./testing/create-test-charters.md):** A workflow for creating effective, context-driven test charters for exploratory testing.
--   **[Gather Feature Context](./testing/gather-feature-context.md):** A process for gathering comprehensive context for a large feature or epic.
 -   **[Heal Failing Tests](./testing/heal-failing-tests.md):** A systematic approach to diagnosing and fixing failing automated tests.
 -   **[Review Test Suite](./testing/review-test-suite.md):** A comprehensive guide to auditing a test automation suite for quality, maintainability, and ROI.
 
