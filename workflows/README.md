@@ -46,6 +46,12 @@ A collection of workflows for test automation, strategy, and quality assurance.
 -   **[Plan E2E Tests](./testing/plan-e2e-tests.md):** A structured process for analyzing end-to-end test scenarios and creating a clear implementation plan.
 -   **[Review Test Suite](./testing/review-test-suite.md):** A comprehensive guide to auditing a test automation suite for quality, maintainability, and ROI.
 
+### 💥 Chaos Engineering
+
+A collection of workflows for intentionally introducing controlled failures to test system resilience.
+
+-   **[Test Breaker](./chaos-engineering/test-breaker.md):** A workflow for systematically introducing failures into an automated test suite.
+
 ### ✨ Examples
 
 -   **[Component Generator](./examples/component-generator.md):** An example workflow for generating a new React component with TypeScript, tests, and styles.

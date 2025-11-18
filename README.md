@@ -126,12 +126,14 @@ awesome-postqode/
     │   └── component-generator.md
     ├── project-management/  # Project management workflows
     │   └── gather-feature-context.md
-    └── testing/             # Testing workflows
-        ├── create-automation-tests.md
-        ├── create-test-charters.md
-        ├── heal-failing-tests.md
-        ├── plan-e2e-tests.md
-        └── review-test-suite.md
+    ├── testing/             # Testing workflows
+    │   ├── create-automation-tests.md
+    │   ├── create-test-charters.md
+    │   ├── heal-failing-tests.md
+    │   ├── plan-e2e-tests.md
+    │   └── review-test-suite.md
+    └── chaos-engineering/   # Chaos engineering workflows
+        └── test-breaker.md
 ```
 
 ## 💡 Use Cases
