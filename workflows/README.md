@@ -29,6 +29,7 @@ To use a workflow, simply invoke it by name in your chat with PostQode. The work
 A collection of workflows for common development tasks, such as fixing bugs and implementing features.
 
 -   **[Fix Bug](./development/fix-bug.md):** A systematic process for investigating, fixing, and verifying bugs.
+-   **[Code Review](./development/code-review.md):** A structured checklist for conducting effective and consistent code reviews.
 -   **[Implement Feature](./development/implement-feature.md):** A structured process for implementing a new feature from requirements to completion.
 
 ### 📂 Project Management
