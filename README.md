@@ -121,7 +121,8 @@ awesome-postqode/
 └── workflows/               # PostQode Workflows
     ├── README.md            # Workflows documentation
     ├── development/         # Development workflows
-    │   └── fix-bug.md
+    │   ├── fix-bug.md
+    │   └── implement-feature.md
     ├── examples/            # Example workflows
     │   └── component-generator.md
     ├── project-management/  # Project management workflows
