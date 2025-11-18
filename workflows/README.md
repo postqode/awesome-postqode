@@ -67,6 +67,12 @@ A collection of workflows for creating and maintaining documentation.
 
 -   **[Create Technical Spec](./documentation/create-technical-spec.md):** A structured template for creating a comprehensive technical specification document.
 
+### 🚀 DevOps
+
+A collection of workflows for DevOps processes, such as setting up CI/CD pipelines.
+
+-   **[Setup CI/CD Pipeline](./devops/setup-cicd-pipeline.md):** A high-level guide for setting up a basic CI/CD pipeline.
+
 ### ✨ Examples
 
 -   **[Component Generator](./examples/component-generator.md):** An example workflow for generating a new React component with TypeScript, tests, and styles.

@@ -141,6 +141,8 @@ awesome-postqode/
         └── onboard-new-developer.md
     └── documentation/       # Documentation workflows
         └── create-technical-spec.md
+    └── devops/              # DevOps workflows
+        └── setup-cicd-pipeline.md
 ```
 
 ## 💡 Use Cases
