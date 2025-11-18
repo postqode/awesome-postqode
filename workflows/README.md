@@ -61,6 +61,12 @@ A collection of workflows for team-related processes, such as onboarding and kno
 
 -   **[Onboard New Developer](./team-management/onboard-new-developer.md):** A structured checklist to ensure a smooth and consistent onboarding experience for new developers.
 
+### 📝 Documentation
+
+A collection of workflows for creating and maintaining documentation.
+
+-   **[Create Technical Spec](./documentation/create-technical-spec.md):** A structured template for creating a comprehensive technical specification document.
+
 ### ✨ Examples
 
 -   **[Component Generator](./examples/component-generator.md):** An example workflow for generating a new React component with TypeScript, tests, and styles.

@@ -139,6 +139,8 @@ awesome-postqode/
         └── test-breaker.md
     └── team-management/     # Team management workflows
         └── onboard-new-developer.md
+    └── documentation/       # Documentation workflows
+        └── create-technical-spec.md
 ```
 
 ## 💡 Use Cases
